@@ -16,6 +16,7 @@
   ·
   <a href="https://gitee.com/cola777jz/cola777jz-docsify-template/pulls">Request Feature</a>
 </p>
+
 ## About
 
 Docsify Template 集成了一些常用特性
@@ -40,7 +41,7 @@ git clone https://gitee.com/cola777jz/cola777jz-docsify-template.git
 
 ### Usage
 
-Blog
+- 参见：[说明文档](./docs/README.md)
 
 ## RoadMap
 
