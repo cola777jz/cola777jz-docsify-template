@@ -32,7 +32,7 @@ Docsify Template 集成了一些常用特性
 
 ### Installation
 
-1. Get overview at [Document | 文档]([地址](https://gitee.com/cola777jz/cola777jz-docsify-template/tree/master/))
+1. Get overview at [Document | 文档](https://gitee.com/cola777jz/cola777jz-docsify-template/tree/master/)
 2. Clone the repo
 
 ```shell
