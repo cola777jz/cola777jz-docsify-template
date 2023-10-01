@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](static/icon/icon.svg)
 
 # Cola777jz <small>1.0.0</small>
 
