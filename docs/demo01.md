@@ -148,8 +148,41 @@ Alice <-- Bob: Another authentication Response22
 ### 1.3.8 html 预览
 
 ```markdown
-<p>Hello, Docsify!</p>
+<div align="center">
+  <a href="https://gitee.com/cola777jz/cola777jz-docsify-template">
+    <img src="https://cola-picgo-1311841992.cos.ap-beijing.myqcloud.com/myDoc2023_icon_live.svg" alt="Logo" width="80"
+      height="80">
+  </a>
+</div>
+<h3 align="center">cola777jz-docsify-template</h3>
+
+<p align="center">
+  Docsify Template
+  <br />
+  <a href="https://gitee.com/cola777jz/cola777jz-docsify-template/tree/master/"><strong>项目文档</strong></a>
+  <br />
+  <br />
+  <a href="https://gitee.com/cola777jz/cola777jz-docsify-template/issues">Report Bug</a>
+  ·
+  <a href="https://gitee.com/cola777jz/cola777jz-docsify-template/pulls">Request Feature</a>
+</p>
 ```
 
-<p>Hello, Docsify!</p>
+<div align="center">
+  <a href="https://gitee.com/cola777jz/cola777jz-docsify-template">
+    <img src="https://cola-picgo-1311841992.cos.ap-beijing.myqcloud.com/myDoc2023_icon_live.svg" alt="Logo" width="80"
+      height="80">
+  </a>
+</div>
+<h3 align="center">cola777jz-docsify-template</h3>
 
+<p align="center">
+  Docsify Template
+  <br />
+  <a href="https://gitee.com/cola777jz/cola777jz-docsify-template/tree/master/"><strong>项目文档</strong></a>
+  <br />
+  <br />
+  <a href="https://gitee.com/cola777jz/cola777jz-docsify-template/issues">Report Bug</a>
+  ·
+  <a href="https://gitee.com/cola777jz/cola777jz-docsify-template/pulls">Request Feature</a>
+</p>
