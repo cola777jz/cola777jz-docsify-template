@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://gitee.com/cola777jz/cola777jz-docsify-template">
-    <img src="https://cola-picgo-1311841992.cos.ap-beijing.myqcloud.com/myDoc2023_icon_live.svg" alt="Logo" width="80"
+    <img src="https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/%E6%9E%AB%E5%8F%B6-copy%20(1).svg" alt="Logo" width="80"
       height="80">
   </a>
 </div>
@@ -29,7 +29,6 @@ Docsify Template 集成了一些常用特性
 | Node    | 16.17.1  |
 
 ## Getting Started
-
 ### Installation
 
 1. Get overview at [Document | 文档](https://gitee.com/cola777jz/cola777jz-docsify-template/tree/master/)
