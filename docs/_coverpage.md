@@ -6,7 +6,6 @@
 
 - 支持匿名评论、集成哔哩哔哩表情
 - Typora 拓展，代码块 （Success、Danger、Warn）
-- TOC 支持
 - Docker 一键部署
 
 [GitHub](https://gitee.com/cola777jz)
